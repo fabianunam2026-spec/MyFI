@@ -1,0 +1,6 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <rect width="512" height="512" rx="112" fill="#10131A"/>
+  <text x="246" y="278" text-anchor="middle"
+        font-family="Liberation Sans, DejaVu Sans, sans-serif" font-weight="700"
+        font-size="96" letter-spacing="-1" fill="#F5F6F7">My<tspan fill="#34D399">Fi</tspan></text>
+</svg>
